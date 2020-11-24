@@ -10,3 +10,13 @@ would have tasks to accomplish. They would add those tasks to the list as they c
 for easy retreival of metrics for future use as an analytical platform.
 
 NOTE: You'll have to add your own config file for the db to get the server up.
+
+-----------------CLIENT-RUNNING----------------------
+
+The Home Screen lists all tasks that are to be completed. Once populated, each task can be clicked on to edit and marked complete.
+
+![Home Screen](images/HomeScreenPic.JPG)
+
+The Add Task provides the user to add a task to the database for viewing and completion later.
+
+![Home Screen](images/AddTaskPic.JPG)
