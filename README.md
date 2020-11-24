@@ -13,7 +13,7 @@ NOTE: You'll have to add your own config file for the db to get the server up.
 
 -----------------CLIENT-RUNNING----------------------
 
-The Home Screen lists all tasks that are to be completed. Once populated, each task can be clicked on to edit and marked complete.
+The Home Screen lists all tasks that are to be completed. I didn't have the server up running to take screenshots but once the server is up and running the database can be populated and each task can be clicked on to edit and marked complete.
 
 ![Home Screen](images/HomeScreenPic.JPG)
 
