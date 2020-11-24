@@ -8,3 +8,5 @@ at the time, hence the egregious deviations from best-practices here. The goal w
 The application is basically a CRUD (create, read, update, and delete operations) application. The idea is that a department, company, organization, or whatever
 would have tasks to accomplish. They would add those tasks to the list as they come in. Then, a task completer would come along complete the tasks. This design allows
 for easy retreival of metrics for future use as an analytical platform.
+
+NOTE: You'll have to add your own config file for the db to get the server up.
